@@ -1,2 +1,2 @@
 # my-portfolio
-Coursera HTML/CSS/JC Final Project
+Coursera HTML/CSS/JS Final Project
